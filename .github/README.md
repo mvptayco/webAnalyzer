@@ -1,11 +1,11 @@
-<h1 align="center">Web-Check</h1>
+<h1 align="center">Web Analyzer</h1>
 
 
 <p align="center">
 <img src="https://i.ibb.co/q1gZN2p/web-check-logo.png" width="96" /><br />
 <b><i>Comprehensive, on-demand open source intelligence for any website</i></b>
 <br />
-<b>🌐 <a href="https://web-check.xyz/">web-check.xyz</a></b><br />
+<b>🌐 <a href="https://webanalyzer.mvptayco.com/">Web Analyzer</a></b><br />
 
 </p>
 
@@ -68,28 +68,25 @@ The aim is to help you easily understand, optimize and secure your website.
 <details>
       <summary>Expand Screenshot</summary>
 
-[![Screenshot](https://raw.githubusercontent.com/Lissy93/web-check/master/.github/screenshots/web-check-screenshot1.png)](https://web-check.as93.net/)
+[![Screenshot](https://raw.githubusercontent.com/mvptayco/webAnalyzer/master/.github/screenshots/web-check-screenshot1.png)](https://webanalyzer.mvptayco.com/)
       
 </details>
 
-[![Screenshot](https://i.ibb.co/r0jXN6s/web-check.png)](https://github.com/Lissy93/web-check/tree/master/.github/screenshots)
+[![Screenshot](https://i.ibb.co/r0jXN6s/web-check.png)](https://github.com/mvptayco/webAnalyzer/tree/master/.github/screenshots)
 
 ### Live Demo
-A hosted version can be accessed at: **[web-check.as93.net](https://web-check.as93.net)**
+A hosted version can be accessed at: **[Web Analyzer](https://webanalyzer.mvptayco.com/)**
 
 ### Mirror
-The source for this repo is mirrored to CodeBerg, available at: **[codeberg.org/alicia/web-check](https://codeberg.org/alicia/web-check)**
+The source for this repo is mirrored to CodeBerg, available at: **[codeberg.org/mvptayco/webAnalyzer](https://codeberg.org/mvptayco/webAnalyzer)**
 
 ### Status
 
 
-Build & Deploys: [![Netlify Status](https://api.netlify.com/api/v1/badges/c43453c1-5333-4df7-889b-c1d2b52183c0/deploy-status)](https://app.netlify.com/sites/web-check/deploys)
-[![Vercel Status](https://therealsujitk-vercel-badge.vercel.app/?app=web-check-ten)](https://vercel.com/as93/web-check/)
-[![🐳 Build + Publish Docker Image](https://github.com/Lissy93/web-check/actions/workflows/docker.yml/badge.svg)](https://github.com/Lissy93/web-check/actions/workflows/docker.yml)
-[![🚀 Deploy to AWS](https://github.com/Lissy93/web-check/actions/workflows/deploy-aws.yml/badge.svg)](https://github.com/Lissy93/web-check/actions/workflows/deploy-aws.yml)
+Build & Deploys: [![Netlify Status](https://api.netlify.com/api/v1/badges/c43453c1-5333-4df7-889b-c1d2b52183c0/deploy-status)](https://app.netlify.com/sites/webanalyzer/deploys)
+[![🐳 Build + Publish Docker Image](https://github.com/mvptayco/webAnalyzer/actions/workflows/docker.yml/badge.svg)](https://github.com/mvptayco/webAnalyzer/actions/workflows/docker.yml)
 <br />
-Repo Management & Miscellaneous: [![🪞 Mirror to Codeberg](https://github.com/Lissy93/web-check/actions/workflows/mirror.yml/badge.svg)](https://github.com/Lissy93/web-check/actions/workflows/mirror.yml)
-[![💓 Inserts Contributors & Sponsors](https://github.com/Lissy93/web-check/actions/workflows/credits.yml/badge.svg)](https://github.com/Lissy93/web-check/actions/workflows/credits.yml)
+Repo Management & Miscellaneous: [![💓 Inserts Contributors & Sponsors](https://github.com/mvptayco/webAnalyzer/actions/workflows/credits.yml/badge.svg)](https://github.com/mvptayco/webAnalyzer/actions/workflows/credits.yml)
 
 
 ### Features
@@ -763,7 +760,7 @@ This may be useful to see what a given website looks like, free of the constrain
 
 </details>
 
-Read more here: **[web-check.xyz/about](https://web-check.xyz/about)**
+Read more here: **[webanalyzer.mvptayco.com/about](https://webanalyzer.mvptayco.com/about)**
 
 ---
 
@@ -775,25 +772,25 @@ Read more here: **[web-check.xyz/about](https://web-check.xyz/about)**
 
 Click the button below, to deploy to Netlify 👇
 
-[![Deploy to Netlify](https://img.shields.io/badge/Deploy-Netlify-%2330c8c9?style=for-the-badge&logo=netlify&labelColor=1e0e41 'Deploy Web-Check to Netlify, via 1-Click Script')](https://app.netlify.com/start/deploy?repository=https://github.com/lissy93/web-check)
+[![Deploy to Netlify](https://img.shields.io/badge/Deploy-Netlify-%2330c8c9?style=for-the-badge&logo=netlify&labelColor=1e0e41 'Deploy Web Analyzer to Netlify, via 1-Click Script')](https://app.netlify.com/start/deploy?repository=https://github.com/mvptayco/webAnalyzer)
 
 ### Deploying - Option #2: Vercel
 
 Click the button below, to deploy to Vercel 👇
 
-[![Deploy with Vercel](https://img.shields.io/badge/Deploy-Vercel-%23ffffff?style=for-the-badge&logo=vercel&labelColor=1e0e41)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Flissy93%2Fweb-check&project-name=web-check&repository-name=web-check-fork&demo-title=Web-Check%20Demo&demo-description=Check%20out%20web-check.xyz%20to%20see%20a%20live%20demo%20of%20this%20application%20running.&demo-url=https%3A%2F%2Fweb-check.xyz&demo-image=https%3A%2F%2Fraw.githubusercontent.com%2FLissy93%2Fweb-check%2Fmaster%2F.github%2Fscreenshots%2Fweb-check-screenshot10.png)
+[![Deploy with Vercel](https://img.shields.io/badge/Deploy-Vercel-%23ffffff?style=for-the-badge&logo=vercel&labelColor=1e0e41)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fmvptayco%2FwebAnalyzer&project-name=webanalyzer&repository-name=webanalyzer-fork&demo-title=Web%20Analyzer%20Demo&demo-description=Check%20out%20webanalyzer.mvptayco.com%20to%20see%20a%20live%20demo%20of%20this%20application%20running.&demo-url=https%3A%2F%2Fwebanalyzer.mvptayco.com&demo-image=https%3A%2F%2Fraw.githubusercontent.com%2Fmvptayco%2FwebAnalyzer%2Fmaster%2F.github%2Fscreenshots%2Fweb-check-screenshot10.png)
 
 ### Deploying - Option #3: Docker
 
-Run `docker run -p 3000:3000 lissy93/web-check`, then open [`localhost:3000`](http://localhost:3000)
+Run `docker run -p 3000:3000 mvptayco/webanalyzer`, then open [`localhost:3000`](http://localhost:3000)
 
 <details>
 <summary>Docker Options</summary>
 
 You can get the Docker image from:
-- DockerHub: [`lissy93/web-check`](https://hub.docker.com/r/lissy93/web-check)
-- GHCR: [`ghcr.io/lissy93/web-check`](https://github.com/Lissy93/web-check/pkgs/container/web-check)
-- Or build the image yourself by cloning the repo and running `docker build -t web-check .`
+- DockerHub: [`mvptayco/webanalyzer`](https://hub.docker.com/r/mvptayco/webanalyzer)
+- GHCR: [`ghcr.io/mvptayco/webanalyzer`](https://github.com/mvptayco/webAnalyzer/pkgs/container/webanalyzer)
+- Or build the image yourself by cloning the repo and running `docker build -t webanalyzer .`
 
 </details>
 
@@ -802,11 +799,11 @@ You can get the Docker image from:
 Install the prerequisites listed in the [Developing](#developing) section, then run: 
 
 ```bash
-git clone https://github.com/Lissy93/web-check.git  # Download the code from GitHub
-cd web-check                                        # Navigate into the project dir
-yarn install                                        # Install the NPM dependencies
-yarn build                                          # Build the app for production
-yarn serve                                          # Start the app (API and GUI)
+git clone https://github.com/mvptayco/webAnalyzer.git  # Download the code from GitHub
+cd webAnalyzer                                          # Navigate into the project dir
+yarn install                                            # Install the NPM dependencies
+yarn build                                              # Build the app for production
+yarn serve                                              # Start the app (API and GUI)
 ```
 
 ---
@@ -863,8 +860,8 @@ Note that keys that are prefixed with `REACT_APP_` are used client-side, and as 
 
 ### Developing
 
-1. Clone the repo, `git clone git@github.com:Lissy93/web-check.git`
-2. Cd into it, `cd web-check`
+1. Clone the repo, `git clone git@github.com:mvptayco/webAnalyzer.git`
+2. Cd into it, `cd webAnalyzer`
 3. Install dependencies: `yarn`
 4. Start the dev server, with `yarn dev`
 
