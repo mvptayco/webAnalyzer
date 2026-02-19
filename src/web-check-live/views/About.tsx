@@ -153,19 +153,19 @@ const About = (): JSX.Element => {
         <SponsorshipContainer>
           <p>
             Web Analyzer is kindly sponsored
-            by <a target="_blank" rel="noreferrer" href="https://terminaltrove.com/?utm_campaign=github&utm_medium=referral&utm_content=web-check&utm_source=wcgh">
+            by <a target="_blank" rel="noreferrer" href="https://terminaltrove.com/?utm_campaign=github&utm_medium=referral&utm_content=web-analyzer&utm_source=wcgh">
               Terminal Trove
             </a>
             <br />
             The $HOME of all things in the terminal.
             <br />
             <small>
-              <a target="_blank" rel="noreferrer" href="https://terminaltrove.com/newsletter?utm_campaign=github&utm_medium=referral&utm_content=web-check&utm_source=wcgh">
+              <a target="_blank" rel="noreferrer" href="https://terminaltrove.com/newsletter?utm_campaign=github&utm_medium=referral&utm_content=web-analyzer&utm_source=wcgh">
                 Find your next CLI / TUI tool, and get updates to your inbox
               </a>
             </small>
           </p>
-          <a target="_blank" rel="noreferrer" href="https://terminaltrove.com/?utm_campaign=github&utm_medium=referral&utm_content=web-check&utm_source=wcgh">
+          <a target="_blank" rel="noreferrer" href="https://terminaltrove.com/?utm_campaign=github&utm_medium=referral&utm_content=web-analyzer&utm_source=wcgh">
             <img width="300" alt="Terminal Trove" src="https://i.ibb.co/T1KzVmR/terminal-trove-green.png" />
           </a>
         </SponsorshipContainer>
@@ -230,7 +230,7 @@ const About = (): JSX.Element => {
 
       <Heading as="h2" size="medium" color={colors.primary}>Deploy your own Instance</Heading>
       <Section>
-        <p>Web-Check is designed to be easily self-hosted.</p>
+        <p>Web Analyzer is designed to be easily self-hosted.</p>
         <Heading as="h3" size="small" color={colors.primary}>Option #1 - Netlify</Heading>
         <p>Click the button below to deploy to Netlify</p>
         <a target="_blank" rel="noreferrer" href="https://app.netlify.com/start/deploy?repository=https://github.com/mvptayco/webAnalyzer">
@@ -268,7 +268,7 @@ const About = (): JSX.Element => {
 
         <Heading as="h3" size="small" color={colors.primary}>Configuring</Heading>
         <p>
-          There are some optional environmental variables you can specify to give you access to some additional Web-Checks.
+          There are some optional environmental variables you can specify to give you access to some additional Web Analyzer features.
           See the README for full list of options.
         </p>
 

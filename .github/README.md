@@ -12,13 +12,13 @@
 ---
 <p align="center">
   <sup>Kindly supported by:</sup><br>
-<a href="https://terminaltrove.com/?utm_campaign=github&utm_medium=referral&utm_content=web-check&utm_source=wcgh">
+<a href="https://terminaltrove.com/?utm_campaign=github&utm_medium=referral&utm_content=web-analyzer&utm_source=wcgh">
   <img src="https://i.ibb.co/8jrrcZ0/IMG-7210.jpg" width="300" alt="Terminal Trove">
   <br>
   <strong>The $HOME of all things in the terminal.</strong>
 </a>
 <br>
-<a href="https://terminaltrove.com/newsletter?utm_campaign=github&utm_medium=referral&utm_content=web-check&utm_source=wcgh">
+<a href="https://terminaltrove.com/newsletter?utm_campaign=github&utm_medium=referral&utm_content=web-analyzer&utm_source=wcgh">
   <sub>Find your next CLI / TUI tool and more at Terminal Trove,</sub>
   <br>
   <sup>Get updates on new tools on our newsletter.</sup>
@@ -27,8 +27,8 @@
 
 <p align="center">
 	<sup>Kindly supported by:</sup><br>
-	<a href="https://go.warp.dev/web-check"><b>Warp</b>, built for coding with multiple AI agents</a><br><br>
-	<a href="https://go.warp.dev/web-check"><img width="640" src="https://github.com/warpdotdev/brand-assets/blob/main/Github/Sponsor/Warp-Github-LG-02.png?raw=true" /></a>
+	<a href="https://go.warp.dev/web-analyzer"><b>Warp</b>, built for coding with multiple AI agents</a><br><br>
+	<a href="https://go.warp.dev/web-analyzer"><img width="640" src="https://github.com/warpdotdev/brand-assets/blob/main/Github/Sponsor/Warp-Github-LG-02.png?raw=true" /></a>
 </p>
 
 ---
