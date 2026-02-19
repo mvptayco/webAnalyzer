@@ -240,7 +240,7 @@ const Results = (props: { address?: string } ): JSX.Element => {
             { error: `Failed to get a valid response 😢\n`
             + 'This is likely due the target not exposing the required data, '
             + 'or limitations in imposed by the infrastructure this instance '
-            + 'of Web Check is running on.\n\n'
+            + 'of Web Analyzer is running on.\n\n'
             + `Error info:\n${error}`}
           ));
     });
@@ -877,7 +877,7 @@ const Results = (props: { address?: string } ): JSX.Element => {
         }
       </Nav>
       <ProgressBar loadStatus={loadingJobs} showModal={showErrorModal} showJobDocs={showInfo} />
-      {/* { address?.includes(window?.location?.hostname || 'web-check.xyz') && <SelfScanMsg />} */}
+      {/* { address?.includes(window?.location?.hostname || 'webanalyzer.mvptayco.com') && <SelfScanMsg />} */}
       <Loader show={loadingJobs.filter((job: LoadingJob) => job.state !== 'loading').length < 5} />
       <FilterButtons>{ showFilters ? <>
         <div className="one-half">

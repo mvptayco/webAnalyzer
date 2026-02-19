@@ -2,7 +2,7 @@
   "name": "web-analyzer",
   "type": "module",
   "version": "2.0.2",
-  "homepage": "https://web-check.xyz",
+  "homepage": "https://webanalyzer.mvptayco.com",
   "description": "Web Analyzer - Analyze website security, technology stack, and more",
   "scripts": {
     "start": "node server",

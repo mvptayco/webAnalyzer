@@ -219,8 +219,8 @@ const Home = (): JSX.Element => {
       <UserInputMain onSubmit={formSubmitEvent}>
         <a href="/">
           <Heading as="h1" size="xLarge" align="center" color={colors.primary}>
-            <img width="64" src="/web-check.png" alt="Web Check Icon" />
-            Web Check
+            <img width="64" src="/web-check.png" alt="Web Analyzer Icon" />
+            Web Analyzer
           </Heading>
         </a>
         <Input
@@ -288,7 +288,7 @@ const Home = (): JSX.Element => {
           <a target="_blank" rel="noreferrer" href="https://app.netlify.com/start/deploy?repository=https://github.com/mvptayco/webAnalyzer" title="Deploy your own private or public instance of Web Analyzer to Netlify">
             <Button>Deploy your own</Button>
           </a>
-          <Link to="/check/about#api-documentation" title="View the API documentation, to use Web-Check programmatically">
+          <Link to="/check/about#api-documentation" title="View the API documentation, to use Web Analyzer programmatically">
             <Button>API Docs</Button>
           </Link>
         </div>
